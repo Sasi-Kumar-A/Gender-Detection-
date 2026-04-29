@@ -169,7 +169,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Sasi Kumar**
 - GitHub: ([https://github.com/your-username](https://github.com/Sasi-Kumar-A))
-- LinkedIn: [[your-linkedin](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/sasi-kumar-a--/)
+- LinkedIn: (https://www.linkedin.com/in/sasi-kumar-a--/)
 
 ---
 
