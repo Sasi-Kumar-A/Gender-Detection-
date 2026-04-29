@@ -1,0 +1,10 @@
+flask
+librosa==0.10.0.post2
+numpy
+scikit-learn
+pydub
+ffmpeg-python
+soundfile
+joblib
+gunicorn
+setuptools
